@@ -3,4 +3,5 @@ public class Trim {
     private int count;
     private String name;
     private String olderName;
+    private String bottle;
 }
