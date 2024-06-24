@@ -3,4 +3,5 @@ public class Foo {
     private int version;
     private String description;
     private String tag;
+    private String anotherName;
 }
