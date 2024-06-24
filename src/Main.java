@@ -1,7 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println("Hello worlddsf!1");
-        System.out.println("테스트1에서 기입");
+        System.out.println("브랜치1");
     }
 }
